@@ -18,3 +18,6 @@ Simple age and gender detector using machine learning
 8. Click on detect problem
 9. View results
 
+## Sample outputs:
+### Sample Output 1:
+[Sample Output 1](
